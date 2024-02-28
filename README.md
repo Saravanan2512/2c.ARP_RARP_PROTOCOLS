@@ -84,6 +84,10 @@ print(f"The MAC Address for {ip_address} is: {mac_address}")
 client_socket.close()
 ```
 ## OUPUT - ARP
+![Screenshot 2024-02-28 031610](https://github.com/Saravanan2512/2c.ARP_RARP_PROTOCOLS/assets/144979117/a7c702b1-c725-4f2e-ba17-5e1c76eeb9cd)
+
+![image](https://github.com/Saravanan2512/2c.ARP_RARP_PROTOCOLS/assets/144979117/dbfcf5ad-3f91-4a51-9d0f-896c8d9d500a)
+
 
 ## PROGRAM - RARP
 
@@ -151,6 +155,10 @@ print(f"The IP Address for {mac_address} is: {ip_address}")
 client_socket.close()
 ```
 ## OUPUT -RARP
+
+![image](https://github.com/Saravanan2512/2c.ARP_RARP_PROTOCOLS/assets/144979117/06505906-bcdd-43e2-b510-34b0f40338ef)
+![image](https://github.com/Saravanan2512/2c.ARP_RARP_PROTOCOLS/assets/144979117/8f165835-4431-47f9-8b40-2cb487f77bfe)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
